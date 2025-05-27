@@ -1,0 +1,18 @@
+# Ignore node_modules to avoid platform mismatch
+node_modules
+
+# Ignore Bun's install directory (just in case)
+.bun
+
+# Logs
+logs
+*.log
+
+# Environment files
+.env
+.env.*
+
+
+
+# Docker-related
+Dockerfile

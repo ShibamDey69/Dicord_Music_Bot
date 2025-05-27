@@ -1,0 +1,198 @@
+{"level":30,"time":"2025-05-04T17:55:30.824Z","pid":26236,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-04T18:56:15.135Z","pid":25792,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-04T18:58:46.122Z","pid":25792,"hostname":"shibam7","msg":"Successfully registered application commands."}
+{"level":50,"time":"2025-05-04T18:58:58.718Z","pid":25792,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[10062]: Unknown interaction"}
+{"level":50,"time":"2025-05-04T18:58:59.205Z","pid":25792,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-04T18:59:26.723Z","pid":25792,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[10062]: Unknown interaction"}
+{"level":50,"time":"2025-05-04T18:59:27.209Z","pid":25792,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":30,"time":"2025-05-04T19:13:01.765Z","pid":13228,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-04T21:18:08.625Z","pid":19488,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T07:27:33.127Z","pid":2760,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T07:28:58.425Z","pid":10152,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T07:29:04.057Z","pid":10152,"hostname":"shibam7","msg":"Successfully registered application commands."}
+{"level":50,"time":"2025-05-05T07:29:45.776Z","pid":10152,"hostname":"shibam7","msg":"❌ Invalid audio buffer for Sun Saathiya Full Video | Disney's ABCD 2 | Varun Dhawan , Shraddha Kapoor | Sachin Jigar | Priya S"}
+{"level":30,"time":"2025-05-05T07:30:42.108Z","pid":20304,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-05T07:31:02.738Z","pid":20304,"hostname":"shibam7","msg":"❌ Invalid audio buffer for Sun Saathiya Full Video | Disney's ABCD 2 | Varun Dhawan , Shraddha Kapoor | Sachin Jigar | Priya S"}
+{"level":30,"time":"2025-05-05T07:31:53.592Z","pid":22080,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-05T07:32:18.349Z","pid":22080,"hostname":"shibam7","msg":"❌ Failed to play \"Suno Na Sangemarmar\" Full Song Youngistaan | Arijit Singh | Jackky Bhagnani, Neha Sharma:"}
+{"level":30,"time":"2025-05-05T07:33:05.088Z","pid":15800,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-05T08:30:41.372Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg"}
+{"level":50,"time":"2025-05-05T08:30:41.878Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg"}
+{"level":50,"time":"2025-05-05T08:30:42.391Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg"}
+{"level":50,"time":"2025-05-05T08:30:42.899Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-b.discord.gg"}
+{"level":50,"time":"2025-05-05T08:52:32.305Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg"}
+{"level":50,"time":"2025-05-05T08:52:32.813Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg"}
+{"level":50,"time":"2025-05-05T08:52:33.325Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg"}
+{"level":50,"time":"2025-05-05T08:52:33.835Z","pid":15800,"hostname":"shibam7","msg":"A websocket connection encountered an error: getaddrinfo ENOTFOUND gateway-us-east1-d.discord.gg"}
+{"level":30,"time":"2025-05-05T09:06:26.971Z","pid":17352,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T09:06:28.516Z","pid":25952,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T09:06:30.495Z","pid":25952,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T09:07:20.730Z","pid":2400,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T09:07:22.973Z","pid":2400,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:42:21.192Z","pid":10492,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:42:22.372Z","pid":24088,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:42:24.341Z","pid":24088,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:42:54.688Z","pid":15068,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:42:56.614Z","pid":15068,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:43:24.336Z","pid":15068,"hostname":"shibam7","msg":"Successfully registered application commands."}
+{"level":30,"time":"2025-05-05T13:43:29.723Z","pid":15068,"hostname":"shibam7","msg":"Successfully registered application commands."}
+{"level":30,"time":"2025-05-05T13:43:59.410Z","pid":14536,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:44:01.693Z","pid":14536,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:44:57.485Z","pid":26436,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:44:58.568Z","pid":17516,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:45:00.777Z","pid":17516,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-05T13:45:20.658Z","pid":17516,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[40060]: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-05T13:45:21.188Z","pid":17516,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":30,"time":"2025-05-05T13:46:45.353Z","pid":10788,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:46:46.325Z","pid":13948,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:46:47.284Z","pid":25736,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:46:48.499Z","pid":22912,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:46:53.706Z","pid":22912,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:46:54.913Z","pid":16172,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":50,"time":"2025-05-05T13:46:54.928Z","pid":16172,"hostname":"shibam7","msg":"Unhandled Rejection at:"}
+{"level":30,"time":"2025-05-05T13:46:56.718Z","pid":16172,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:47:01.642Z","pid":11244,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":50,"time":"2025-05-05T13:47:01.653Z","pid":11244,"hostname":"shibam7","msg":"Unhandled Rejection at:"}
+{"level":30,"time":"2025-05-05T13:47:02.621Z","pid":10348,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":50,"time":"2025-05-05T13:47:02.647Z","pid":10348,"hostname":"shibam7","msg":"Unhandled Rejection at:"}
+{"level":30,"time":"2025-05-05T13:47:04.642Z","pid":10348,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:47:07.775Z","pid":3220,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:47:10.052Z","pid":3220,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T13:47:32.284Z","pid":3220,"hostname":"shibam7","msg":"Successfully registered application commands."}
+{"level":30,"time":"2025-05-05T13:47:41.761Z","pid":3220,"hostname":"shibam7","msg":"Successfully registered application commands."}
+{"level":50,"time":"2025-05-05T13:47:55.839Z","pid":3220,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[40060]: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-05T13:47:56.356Z","pid":3220,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-05T13:49:12.444Z","pid":3220,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[40060]: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-05T13:49:12.964Z","pid":3220,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":30,"time":"2025-05-05T13:52:28.251Z","pid":25804,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T13:52:30.337Z","pid":25804,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-05T13:52:39.886Z","pid":25804,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[40060]: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-05T13:52:40.420Z","pid":25804,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":30,"time":"2025-05-05T14:09:32.437Z","pid":10744,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T14:09:34.742Z","pid":10744,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-05T14:09:55.358Z","pid":10744,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[40060]: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-05T14:09:55.897Z","pid":10744,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":30,"time":"2025-05-05T14:12:11.353Z","pid":19412,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T14:12:13.037Z","pid":19412,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-05T14:12:36.148Z","pid":19412,"hostname":"shibam7","msg":"Error playing track: Error: Error: Cannot find module '@discordjs/opus'\nRequire stack:\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\util\\loader.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\opus\\Opus.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\opus\\index.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\index.js\nError: Cannot find module 'node-opus'\nRequire stack:\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\util\\loader.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\opus\\Opus.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\opus\\index.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\index.js\nError: Cannot find module 'opusscript'\nRequire stack:\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\util\\loader.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\opus\\Opus.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\opus\\index.js\n- C:\\Users\\shiba\\OneDrive\\Desktop\\Programming\\Projects\\MusicBot\\node_modules\\prism-media\\src\\index.js"}
+{"level":30,"time":"2025-05-05T14:13:18.619Z","pid":18364,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T14:13:20.537Z","pid":18364,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-05T14:13:45.504Z","pid":25828,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-05T14:13:47.432Z","pid":25828,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-26T18:57:57.213Z","pid":10140,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T18:57:59.432Z","pid":10140,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T18:58:18.920Z","pid":10140,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[40060]: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-26T18:58:19.451Z","pid":10140,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":30,"time":"2025-05-26T18:59:28.732Z","pid":23688,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T18:59:30.654Z","pid":23688,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T18:59:56.957Z","pid":23688,"hostname":"shibam7","msg":"Error playing track: Error: Node type 'audio' does not exist!"}
+{"level":50,"time":"2025-05-26T19:10:40.206Z","pid":23688,"hostname":"shibam7","msg":"Error playing track: Error: Node type 'audio' does not exist!"}
+{"level":30,"time":"2025-05-26T19:11:11.400Z","pid":17504,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:11:13.326Z","pid":17504,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T19:11:26.285Z","pid":17504,"hostname":"shibam7","msg":"Error playing track: Error: Node type 'audio' does not exist!"}
+{"level":30,"time":"2025-05-26T19:14:11.972Z","pid":8628,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:14:14.139Z","pid":8628,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-26T19:21:00.672Z","pid":20192,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:21:02.943Z","pid":20192,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-26T19:23:45.134Z","pid":21380,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:23:47.296Z","pid":21380,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-26T19:24:56.970Z","pid":8856,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:24:59.268Z","pid":8856,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-26T19:26:17.009Z","pid":15072,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:26:18.647Z","pid":15072,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-26T19:29:45.734Z","pid":13440,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:29:47.972Z","pid":13440,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-26T19:34:56.123Z","pid":22852,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:34:58.254Z","pid":22852,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T19:35:21.686Z","pid":22852,"hostname":"shibam7","msg":"Error loading playlist: Error: playlist error: This playlist type is unviewable."}
+{"level":30,"time":"2025-05-26T19:42:59.859Z","pid":10124,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:43:02.230Z","pid":10124,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T19:43:58.010Z","pid":10124,"hostname":"shibam7","msg":"Error loading playlist: Error: Mixes not supported"}
+{"level":30,"time":"2025-05-26T19:44:34.396Z","pid":4764,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:44:36.767Z","pid":4764,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T19:44:42.526Z","pid":4764,"hostname":"shibam7","msg":"Error loading playlist: Error: Mixes not supported"}
+{"level":50,"time":"2025-05-26T19:45:08.776Z","pid":4764,"hostname":"shibam7","msg":"Error loading playlist: Error: Mixes not supported"}
+{"level":50,"time":"2025-05-26T19:48:36.731Z","pid":4764,"hostname":"shibam7","msg":"Error loading playlist: Error: TypeError: Cannot read properties of undefined (reading 'map')"}
+{"level":50,"time":"2025-05-26T19:50:57.104Z","pid":4764,"hostname":"shibam7","msg":"Error loading playlist: Error: TypeError: Cannot read properties of undefined (reading 'map')"}
+{"level":50,"time":"2025-05-26T19:51:17.924Z","pid":4764,"hostname":"shibam7","msg":"Error loading playlist: Error: TypeError: Cannot read properties of undefined (reading 'map')"}
+{"level":30,"time":"2025-05-26T19:59:24.683Z","pid":24996,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T19:59:26.889Z","pid":24996,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T19:59:40.953Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:41.787Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:42.285Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:42.876Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:43.413Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:43.958Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:44.635Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:45.332Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:46.784Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:47.337Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:47.953Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:48.520Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:49.127Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:49.634Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:50.191Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:50.663Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:51.192Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:51.679Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:52.260Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:52.944Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:53.507Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:54.105Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:54.621Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:55.165Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:55.834Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:56.459Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:57.033Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:57.541Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:58.050Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:58.532Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:58.991Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T19:59:59.560Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:00.235Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:01.042Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:01.677Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:02.386Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:02.998Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:03.541Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:04.331Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:04.904Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:06.877Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:07.650Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:08.130Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:08.841Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:11.006Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:13.030Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:13.801Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:15.761Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:18.117Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:00:20.126Z","pid":24996,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":30,"time":"2025-05-26T20:03:27.142Z","pid":3744,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T20:03:29.669Z","pid":3744,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T20:03:46.430Z","pid":3744,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:03:46.986Z","pid":3744,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:03:47.717Z","pid":3744,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:03:48.392Z","pid":3744,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:03:49.394Z","pid":3744,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:03:50.040Z","pid":3744,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:03:50.601Z","pid":3744,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":30,"time":"2025-05-26T20:04:14.623Z","pid":9472,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T20:04:16.782Z","pid":9472,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-26T20:04:22.922Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:23.598Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:24.174Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:24.786Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:25.815Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:26.793Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:27.326Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:27.928Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:28.657Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":50,"time":"2025-05-26T20:04:29.139Z","pid":9472,"hostname":"shibam7","msg":"Error playing track: TypeError: Cannot read properties of undefined (reading 'stream')"}
+{"level":30,"time":"2025-05-26T20:05:31.060Z","pid":4616,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-26T20:05:33.497Z","pid":4616,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-27T09:08:42.873Z","pid":23808,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-27T09:08:47.068Z","pid":23808,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-27T09:09:08.820Z","pid":23808,"hostname":"shibam7","msg":"Error executing command: DiscordAPIError[40060]: Interaction has already been acknowledged."}
+{"level":50,"time":"2025-05-27T09:09:09.378Z","pid":23808,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
+{"level":30,"time":"2025-05-27T09:10:18.823Z","pid":18732,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-27T09:10:21.172Z","pid":18732,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
