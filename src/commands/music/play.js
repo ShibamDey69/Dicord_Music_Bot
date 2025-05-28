@@ -327,7 +327,7 @@ export async function playNext(guildId) {
     const resource = createAudioResource(result.stream, {
       inlineVolume: true,
       inputType: StreamType.Opus,
-      highWaterMark: 1024 * 1024 * 10
+      highWaterMark: 1024 * 1024 * 128
     });
 
     if (resource.volume) resource.volume.setVolume(1.0);
