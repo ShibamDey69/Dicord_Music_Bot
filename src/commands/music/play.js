@@ -57,7 +57,7 @@ export default {
 
       if (!queues.has(m.guildId)) {
         const player = createAudioPlayer({
-          behaviors: { noSubscriber: NoSubscriberBehavior.Play },
+          behaviors: { noSubscriber: NoSubscriberBehavior.Stop },
         });
 
         queues.set(m.guildId, {
@@ -79,27 +79,6 @@ export default {
           if (queue) {
             queue.tracks.shift();
             playNext(m.guildId);
-          }
-        });
-
-        player.on(AudioPlayerStatus.Playing, () => {
-          const queue = queues.get(m.guildId);
-          if (queue && queue.tracks.length > 0) {
-            const track = queue.tracks[0];
-
-            const nowPlayingEmbed = new EmbedBuilder()
-              .setTitle("🎧 Now Playing")
-              .setDescription(`[${track.title}](${track.url})`)
-              .setThumbnail(track.thumbnail)
-              .addFields({
-                name: "Duration",
-                value: `${track.duration || "Unknown"}`,
-                inline: true,
-              })
-              .setFooter({ text: `Queue Length: ${queue.tracks.length - 1} by ${m.user.username}` })
-              .setColor("Green");
-
-            queue.m.followUp({ embeds: [nowPlayingEmbed] }).catch(() => {});
           }
         });
       }
@@ -129,6 +108,9 @@ export default {
         queue.connection.on("stateChange", (oldState, newState) => {
           if (newState.status === VoiceConnectionStatus.Disconnected) {
             setTimeout(() => queue.connection.rejoin(), 500);
+          }
+          if (oldState.status === VoiceConnectionStatus.Ready && newState.status === VoiceConnectionStatus.Connecting) {
+              queue.connection.configureNetworking()
           }
         });
 
@@ -281,6 +263,7 @@ async function handleSingleVideo(m, song, queue) {
     url: videoInfo.url,
     thumbnail: videoInfo.thumbnail,
     duration: videoInfo.timestamp,
+    textChannel: m.channel,
   });
 
   await m.editReply({
@@ -307,6 +290,25 @@ export async function playNext(guildId) {
     queues.delete(guildId);
     return;
   }
+  if (queue && queue.tracks.length > 0) {
+    const track = queue.tracks[0];
+
+    const nowPlayingEmbed = new EmbedBuilder()
+      .setTitle("🎧 Now Playing")
+      .setDescription(`[${track.title}](${track.url})`)
+      .setThumbnail(track.thumbnail)
+      .addFields({
+        name: "Duration",
+        value: `${track.duration || "Unknown"}`,
+        inline: true,
+      })
+      .setFooter({ text: `Queue Length: ${queue.tracks.length - 1}` })
+      .setColor("Green");
+
+    queue.textChannel.send({ embeds: [nowPlayingEmbed] }).catch(() => {
+      logger.error(`Error sending now playing message: ${error}`);
+    });
+  }
 
   if (queue.processing) return;
   queue.processing = true;
@@ -324,7 +326,8 @@ export async function playNext(guildId) {
 
     const resource = createAudioResource(result.stream, {
       inlineVolume: true,
-      highWaterMark: 64 * 1024 * 1024
+      inputType: StreamType.Opus,
+      highWaterMark: 1024 * 1024 * 10
     });
 
     if (resource.volume) resource.volume.setVolume(1.0);

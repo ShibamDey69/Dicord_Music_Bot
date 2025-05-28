@@ -1,5 +1,7 @@
 import axios from 'axios'
 import crypto from 'crypto'
+import { spawn } from 'child_process'
+import { PassThrough } from 'stream'
 
 const savetube = {
    api: {
@@ -69,6 +71,28 @@ const savetube = {
       if (!response.status) throw new Error('Failed to retrieve CDN.')
       return { status: true, code: 200, data: response.data.cdn }
    },
+   convertMp3ToOpus: async (mp3Stream) => {
+      const opusStream = new PassThrough()
+      
+      const ffmpeg = spawn('ffmpeg', [
+         '-i', 'pipe:0',
+         '-c:a', 'libopus',
+         '-b:a', '128k',
+         '-vbr', 'on',
+         '-compression_level', '10',
+         '-f', 'opus',
+         'pipe:1'
+      ], { stdio: ['pipe', 'pipe', 'ignore'] })
+      
+      ffmpeg.on('error', () => {
+         throw new Error('FFmpeg conversion failed')
+      })
+      
+      mp3Stream.pipe(ffmpeg.stdin)
+      ffmpeg.stdout.pipe(opusStream)
+      
+      return opusStream
+   },
    ytmp3: async link => {
       if (!link) {
          return {
@@ -106,19 +130,21 @@ const savetube = {
 
          const { downloadUrl } = dl.data.data
 
-         const { data: stream } = await axios.get(downloadUrl, {
+         const { data: mp3Stream } = await axios.get(downloadUrl, {
             responseType: 'stream',
             headers: { ...savetube.headers }
          })
+
+         const opusStream = await savetube.convertMp3ToOpus(mp3Stream)
 
          return {
             status: true,
             code: 200,
             result: {
                type: 'audio',
-               format: 'mp3',
+               format: 'opus',
                thumbnail: decrypted.thumbnail || `https://i.ytimg.com/vi/${id}/0.jpg`,
-               stream,
+               stream: opusStream,
                quality: '128'
             }
          }
