@@ -67,6 +67,7 @@ export default {
           loopCurrent: false,
           loopQueue: false,
           processing: false,
+          textChannel: m.channel,
           m,
         });
 
@@ -186,7 +187,7 @@ async function handlePlaylist(m, song, queue) {
         title: video.title,
         url: `https://www.youtube.com/watch?v=${video.videoId}`,
         thumbnail: video.thumbnail,
-        duration: video.duration.timestamp,
+        duration: video.duration.timestamp
       });
     });
 
@@ -262,8 +263,7 @@ async function handleSingleVideo(m, song, queue) {
     title: videoInfo.title,
     url: videoInfo.url,
     thumbnail: videoInfo.thumbnail,
-    duration: videoInfo.timestamp,
-    textChannel: m.channel,
+    duration: videoInfo.timestamp
   });
 
   await m.editReply({
@@ -305,7 +305,7 @@ export async function playNext(guildId) {
       .setFooter({ text: `Queue Length: ${queue.tracks.length - 1}` })
       .setColor("Green");
 
-    queue.textChannel.send({ embeds: [nowPlayingEmbed] }).catch(() => {
+    await queue.textChannel.send({ embeds: [nowPlayingEmbed] }).catch(() => {
       logger.error(`Error sending now playing message: ${error}`);
     });
   }

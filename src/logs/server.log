@@ -196,3 +196,16 @@
 {"level":50,"time":"2025-05-27T09:09:09.378Z","pid":23808,"hostname":"shibam7","msg":"Client connection error: Interaction has already been acknowledged."}
 {"level":30,"time":"2025-05-27T09:10:18.823Z","pid":18732,"hostname":"shibam7","msg":"Server is running on port 3000"}
 {"level":30,"time":"2025-05-27T09:10:21.172Z","pid":18732,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-28T19:46:05.550Z","pid":6248,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-28T19:46:09.960Z","pid":6248,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":50,"time":"2025-05-28T19:46:25.560Z","pid":6248,"hostname":"shibam7","msg":"Unhandled Rejection at:"}
+{"level":30,"time":"2025-05-28T19:50:32.492Z","pid":13368,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-28T19:50:34.902Z","pid":13368,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-28T19:53:08.900Z","pid":14500,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-28T19:53:11.645Z","pid":14500,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-28T20:00:59.899Z","pid":15784,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-28T20:01:02.671Z","pid":15784,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-28T20:02:03.343Z","pid":19652,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-28T20:02:05.875Z","pid":19652,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
+{"level":30,"time":"2025-05-28T20:04:22.008Z","pid":6468,"hostname":"shibam7","msg":"Server is running on port 3000"}
+{"level":30,"time":"2025-05-28T20:04:24.500Z","pid":6468,"hostname":"shibam7","msg":"Bot initialized: NekoMusic#1277"}
